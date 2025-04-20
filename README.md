@@ -45,7 +45,7 @@ Additionally, it highlights the busiest months for movie debuts and features top
 • Top Sentiment: Over 75% of reviews are positive, indicating overall content satisfaction.<br>
 • Studio Leaders: Paramount Pictures and Warner Bros. are the top contributors.<br>
 • Peak Months: January and October show higher release volumes (11% and 10% respectively).<br>
-Rating Distribution: PG and R dominate with over 65% combined share.<br>
+• Rating Distribution: PG and R dominate with over 65% combined share.<br>
 
 <h2>📋 Suggestions for Client</h2>
 
