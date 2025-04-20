@@ -37,7 +37,7 @@ Additionally, it highlights the busiest months for movie debuts and features top
 • Interactive selection area<br>
 
 <hr>
-<img src="https://github.com/Sonalimishra-777/Tomato/blob/main/Rotten_tomatoes.png?raw=true" alt="Pizza Dashboard" width="800">
+<img src="https://github.com/Sonalimishra-777/Tomato/blob/main/Rotten_tomatoes.png?raw=true" alt="Rotten Tomatoes Movie Dashboard" width="800">
 <hr>
 <h2>🔍 Key Findings</h2>
 
